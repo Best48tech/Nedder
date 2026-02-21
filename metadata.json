@@ -1,0 +1,5 @@
+{
+  "name": "CPE DZ - Education Supervisor App",
+  "description": "A professional mobile-first application for Algerian middle school Education Supervisors (CPE) to manage absences, late arrivals, and daily reports.",
+  "requestFramePermissions": []
+}
